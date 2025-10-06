@@ -211,11 +211,15 @@ body {
 .arrow {
   position: absolute;
   top: -7vw;
-  left: 16vw;
+  left: 17vw;
 }
 
 .arrow span {
   width: 10vh;
+}
+
+.arrow span img {
+  width: 25vh;
 }
 
 .left-img {
